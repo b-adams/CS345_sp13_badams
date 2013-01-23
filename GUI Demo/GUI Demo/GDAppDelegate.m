@@ -23,6 +23,7 @@
 }
 
 - (IBAction)do_Goodbye:(id)sender {
+    NSLog(@"Goodbye..");
 }
 @end
 
